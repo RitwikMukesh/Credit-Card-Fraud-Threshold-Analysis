@@ -34,6 +34,6 @@ SQL (SQLite) · Python (Pandas, NumPy) · Tableau
 ```
 ├── transactions_scored.csv     # All 284,807 transactions with computed anomaly_score
 ├── threshold_sweep.csv         # Precision/recall/FPR at 43 threshold points
-├── credit_card_fraud.twbx      # Tableau packaged workbook
+├── Credit Card Fraud — Threshold Analysis.twbx      # Tableau packaged workbook
 └── README.md
 ```
